@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Rodrigo 👋
 
-<!--
-**MizaniDev/MizaniDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 Currently Android Engineer at Itaú <br>
+🇧🇷 Born in Mauá-SP, Brazil <br>
+✨ I love to play videogames <br>
 
-Here are some ideas to get you started:
+### What I'm working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently building an Nintendo eShop app. <br>
+
+### Find me 🌎
+
+🐦 [Twitter](https://twitter.com/rodrigomizani) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-mizani-2096b166/) <br>
+📫 [email](rodrigo.mizani@gmail.com) <br>

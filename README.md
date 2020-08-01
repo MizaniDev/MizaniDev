@@ -10,6 +10,6 @@
 
 ### Find me 🌎
 
-🐦 [Twitter](https://twitter.com/rodrigomizani) <br>
+🐦 <a href="https://www.w3schools.com" target="_blank">Twitter</a> <br>
 💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-mizani-2096b166/) <br>
 📫 [email](rodrigo.mizani@gmail.com) <br>

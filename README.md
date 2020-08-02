@@ -6,7 +6,7 @@
 
 ### What I'm working on 👨‍💻
 
-📚 Currently building an Nintendo eShop app. <br>
+📚 Currently building a Nintendo eShop app. <br>
 
 ### Find me 🌎
 
